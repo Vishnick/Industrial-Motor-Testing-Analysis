@@ -1,7 +1,10 @@
 # Industrial Motor Testing & Performance Analysis
 
 A Python + Streamlit portfolio project for motor test-data capture, performance calculations, basic inspection review, and history export.
+## Live Demo
 
+Try the application here:
+https://industrial-motor-analysis.streamlit.app/
 ## Run locally
 
 1. Install Python 3.10 or newer.
